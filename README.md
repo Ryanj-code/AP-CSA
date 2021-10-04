@@ -1,2 +1,2 @@
 # AP-CSA
-Work from AP CSA
+Projects, Assignments, and other work from AP CSA.
