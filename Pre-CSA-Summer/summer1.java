@@ -10,19 +10,19 @@ public class Main {
     drawFace();
     drawSmile();
     System.out.println();
-  } // Defines the method with other methods.
+  } // Defines the method with the drawFace and drawSmile methods.
 
   public static void drawTapedFace() {
     drawFace();
     drawDuctTape();
     System.out.println();
-  } // Defines the method with other methods.
+  } // Defines the method with the drawFace and drawDuctTape methods.
 
   public static void drawSadFace() {
     drawFace();
     drawFrown();
     System.out.println();
-  } // Defines the method with other methods.
+  } // Defines the method with the drawFace and drawFrown methods.
 
   public static void drawFace() {
     System.out.println("  .  .  ");
