@@ -1,11 +1,10 @@
 class Main {
   public static void main(String[] args) {
     /*
-    int totalChange = 35; //You must declare the variable's type when declaring a new variable
+    int totalChange = 35; // Must declare the variable's type when declaring a new variable.
     System.out.println(totalChange);
     
-    
-    System.out.println(35/25); //integer divided by integer results in an integer which truncates the decimal.
+    System.out.println(35/25); // Integer divided by integer results in an integer which truncates the decimal.
     
     while(totalChange > 0)
     {
