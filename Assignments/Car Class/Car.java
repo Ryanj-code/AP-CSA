@@ -1,4 +1,4 @@
-public class car{
+public class Car{
 
   //fields
   private String make;
@@ -9,7 +9,7 @@ public class car{
   private double odometer;
   private boolean on;
 
-  public car(String make, int year, double mpg, double gasTank){
+  public Car(String make, int year, double mpg, double gasTank){
     this.make = make;
     this.year = year;
     this.mpg = mpg;
