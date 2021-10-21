@@ -1,9 +1,9 @@
-public class student{
+public class Student{
   private String name;
   private String gender;
   private int age;
 
-  public student(String name, String gender, int age){
+  public Student(String name, String gender, int age){
     this.name = name;
     this.gender = gender;
     this.age = age;
