@@ -5,7 +5,7 @@ class Main {
   public static void main(String[] args) {
     int x = 0;
     int y = 1;
-    point pt = new point(x, y);
+    Point pt = new Point(x, y);
     
     System.out.println("The point is " + pt.toString());
     System.out.println(pt.getSlope(4,5));
