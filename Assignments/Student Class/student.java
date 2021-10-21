@@ -1,11 +1,11 @@
-public class Student{
+public class student{
   
   private String name;
   private int gradeLvl;
   private int[] grades;
   private double average;
 
-  public Student(String name, int gradeLvl, int[] grades){
+  public student(String name, int gradeLvl, int[] grades){
     this.name = name;
     this.gradeLvl = gradeLvl;
     this.grades = grades;
