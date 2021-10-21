@@ -1,9 +1,9 @@
-public class quadrilateral extends shapes{
+public class Quadrilaterals extends Shapes{
   
   private static double length;
   private static double width;
   
-  public quadrilateral(int sides, double length, double width){
+  public Quadrilaterals(int sides, double length, double width){
     super(sides);
     this.length = length;
     this.width = width;
