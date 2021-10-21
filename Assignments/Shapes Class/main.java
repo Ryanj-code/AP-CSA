@@ -2,9 +2,9 @@ import java.util.*;
 
 class Main {
   public static void main(String[] args) {
-    Triangles t = new Triangles(3, 3, 4, 5);
-    Circles c = new Circles(0, 5);
-    Quadrilateral q= new Quadrilateral(4, 4, 8);
+    triangles t = new triangles(3, 3, 4, 5);
+    circles c = new circles(0, 5);
+    quadrilateral q= new quadrilateral(4, 4, 8);
 
     System.out.println(t.getPerimeter());
     System.out.println(t.getType());
