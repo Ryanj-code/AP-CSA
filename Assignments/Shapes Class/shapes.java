@@ -1,7 +1,7 @@
-public class Shapes{
+public class shapes{
   private int sides;
 
-  public Shapes(int sides){
+  public shapes(int sides){
     this.sides = sides;
   }
 
