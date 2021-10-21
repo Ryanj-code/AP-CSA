@@ -1,8 +1,8 @@
-public class elementary extends student{
+public class Elementary extends Student{
   private int avgYears;
   private int cost;
 
-  public elementary(String name, String gender, int age, int avgYears, int cost){
+  public Elementary(String name, String gender, int age, int avgYears, int cost){
     super(name,gender,age);
     this.avgYears = avgYears;
     this.cost = cost;
