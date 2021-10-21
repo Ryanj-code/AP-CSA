@@ -1,4 +1,4 @@
-public class person {
+public class Person {
   private double height;
   private double weight;
   private int age;
@@ -6,7 +6,7 @@ public class person {
   private String gender;
   private String eyeColor;
 
-  public person(double height, double weight, int age, String name, String gender, String eyeColor) {
+  public Person(double height, double weight, int age, String name, String gender, String eyeColor) {
     this.height = height;
     this.weight = weight;
     this.age = age;
