@@ -1,7 +1,7 @@
-public class Circles extends Shapes{
+public class circles extends shapes{
   private double radius;
 
-  public Circles(int sides, double radius){
+  public circles(int sides, double radius){
     super(sides);
     this.radius = radius;
   }
