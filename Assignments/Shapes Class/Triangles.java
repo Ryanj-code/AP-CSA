@@ -1,9 +1,9 @@
-public class triangles extends shapes{
+public class Triangles extends Shapes{
   private int sideA;
   private int sideB;
   private int sideC;
 
-  public triangles (int sides, int sideA, int sideB, int sideC){
+  public Triangles(int sides, int sideA, int sideB, int sideC){
     super(sides);
     this.sideA = sideA;
     this.sideB = sideB;
