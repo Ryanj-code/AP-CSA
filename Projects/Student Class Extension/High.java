@@ -1,8 +1,8 @@
-public class high extends student{
+public class High extends Student{
   private int avgYears;
   private int cost;
 
-  public high(String name, String gender, int age, int avgYears, int cost, int scoreSAT){
+  public High(String name, String gender, int age, int avgYears, int cost, int scoreSAT){
     super(name,gender,age);
     this.avgYears = avgYears;
     tis.cost = cost;
